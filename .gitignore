@@ -1,0 +1,17 @@
+/Snake/
+/lesson_1/SpaseForm/.vs/
+/lesson_1/game/
+/lesson_1/SpaseForm/SpaseForm/obj/
+/lesson_1/SpaseForm/SpaseForm/bin/Release/
+/lesson_1/SpaseForm/SpaseForm/bin/Debug/img/shot.mp3.sfk
+/lesson_1/SpaseForm/SpaseForm/bin/Debug/img/shot.ogg.sfk
+/lesson_1/SpaseForm/SpaseForm/bin/Debug/img/shot.ogg.sfl
+/lesson_1/SpaseForm/SpaseForm/bin/Debug/img/shot.sfk
+*.mp3.sfk
+*.sfk
+/lesson_1/SpaseForm/SpaseForm/bin/Debug/SpaseForm.exe
+/lesson_1/SpaseForm/SpaseForm/bin/Debug/SpaseForm.exe.config
+/lesson_1/SpaseForm/SpaseForm/bin/Debug/SpaseForm.pdb
+/lesson_1/SpaseForm/SpaseForm/Properties/
+*.rar
+*.zip
